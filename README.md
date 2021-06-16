@@ -4,6 +4,6 @@ Task-1-opencv Character detector
 
 Libraries used:tensorflow,matplotlib,seaborn,numpy,pandas,math,datetime.
 
-Youtube link:
+Youtube link: https://youtu.be/TIA35YWpAM8
 
 Done by :S.Subiksha
